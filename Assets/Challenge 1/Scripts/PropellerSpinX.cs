@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PropellerSpinX : MonoBehaviour
 {
-    private float propeller = 2000;
+    private float propeller = 1500;
 
     // Start is called before the first frame update
     void Start()
